@@ -1,0 +1,39 @@
+body {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+#main {
+    background-color: rgb(236, 236, 236);
+    border-radius: 6px;
+    padding: 0, 20px, 0, 20px;
+}
+
+#img-div {
+    background-color: white;
+    margin: 20px;
+    padding-bottom: 5px;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#tribute-info {
+    text-align: left;
+    line-height: 1.5;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#tribute-info li {
+    margin: 20px 0px 20px 0px;
+}
+
+#tribute-link {
+    text-decoration: none;
+}
